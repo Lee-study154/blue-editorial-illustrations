@@ -1,0 +1,41 @@
+Use case: illustration-story
+Asset type: standalone 16:9 editorial illustration for an HTML presentation
+
+Input images:
+Input Image 1 is the ONLY identity reference for the recurring glasses character. Preserve the character identity from the input, but invent a fresh delivery scene, pose, props, and composition. Do not copy the input arrangement.
+
+Primary request:
+Create an original editorial comic illustration visualizing a repaired item moving through a final handoff. Show two full-body recurring glasses characters in a fresh right-side scene: the foreground character is kneeling beside a large folded parcel or fabric sleeve, visibly closing a split seam with a short hand tool; beyond a low verification arch, the second character reaches to receive the now-closed parcel on the delivery side. The repair and handoff must be one readable physical chain.
+
+Scene/backdrop:
+Clean white or near-white canvas. On the right half, use a low verification arch or checkpoint doorway, a short floor runway, one oversized folded parcel with a visible seam, a small hand tool, and a receiving shelf. Keep the left 40% calm white for HTML title and body copy. The checkpoint must be a new compact arch composition, not a copied gate scene.
+
+Subject and action:
+Two full-body recurring glasses characters with clear spatial depth. Foreground-right character crouches/kneels with one hand pressing the torn seam and the other guiding a short needle-like repair tool through it. The seam visibly closes into a continuous edge. Background-right character stands beyond the arch with both hands extended to accept the parcel as it reaches the delivery shelf. The runway and parcel point toward the arch; make the handoff direction unambiguous while keeping both pairs of feet grounded and visible.
+
+Character invariants:
+Each recurring character has side-parted black hair; two large round glasses; two separate white oval eyes; exactly one solid black oval pupil inside each eye; both pupils look toward the parcel or handoff. Small rounded faces with restrained cool-gray jaw planes. Klein-blue collared tops with hard-edged cool-gray fold planes. Very wide black trousers with 15-30% cool-gray folded facets. Flat small pointed shoes extending naturally sideways beneath trouser hems.
+
+Style/medium:
+Hand-painted editorial comic illustration. Expressive black ink contours with visible line-weight variation, slightly imperfect turns, occasional restrained redraw marks, matte flat brush fills, and sparse dry-brush edges. Sophisticated and work-focused, not childish, not a generic vector illustration.
+
+Composition/framing:
+2048x1152, 16:9. Place the arch, parcel, and both characters in the right 55-60% of the frame. Preserve at least 40% calm white negative space on the left for HTML copy. Use a low diagonal runway and clear foreground/background depth. Keep the face, hands, parcel seam, and lettering outside the HTML safe zone.
+
+Spatial layering:
+The parcel sits on the floor runway and partly overlaps the foreground character's knees naturally. The verification arch stands behind the parcel with a visible opening; the background character remains behind the arch and never intersects its posts. Hands may extend over the parcel edge, but no torso or leg may pass through the parcel, arch, or shelf. Both pairs of shoes remain on the floor layer.
+
+Color palette:
+Klein blue #002FA7 is the only saturated hue. Everything else is black, white, cool light gray, or cool mid gray. Use blue for the collared tops, one narrow runway mark, and a small verification stamp-like accent on the parcel; do not introduce a second hue.
+
+Lighting and modeling:
+Use only hard-edged flat gray structural planes on sleeve undersides, side seams, folds, jaw, hands, parcel folds, and trouser facets. No gradients, soft shadows, realistic lighting, rim lights, airbrush, or 3D rendering.
+
+Text (verbatim):
+Draw exactly these two short handwritten annotations as part of the illustration, each beside its named visible action or object:
+- "修补" -> close beside the open-to-closed seam and the foreground character's repair tool, following the seam contour.
+- "交付" -> close beside the verification arch opening and the receiving character's extended hands on the delivery side.
+Render exact Chinese characters with expressive black ink lettering, restrained Klein-blue accent strokes, and humanistic brush-like contrast. No label boxes, no title, no paragraph, no unrelated words.
+
+Constraints:
+One image communicates one repair-to-handoff chain. Use 5-8 supporting objects at most. No watermark, logo, decorative frame, dense arrows, formal flowchart, app UI, generic corporate vector illustration, or repeated prior gate layout. No duplicate pupils, double irises, extra eyes, tangled limbs, hidden feet, triangular support-like feet, thick soles, anatomical toes, or text errors.

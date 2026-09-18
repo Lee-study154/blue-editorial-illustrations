@@ -1,0 +1,41 @@
+Use case: illustration-story
+Asset type: standalone 16:9 editorial illustration for an HTML presentation
+
+Primary request:
+Create one original hand-painted editorial comic illustration that visualizes a conclusion becoming stable and complete. Show a concrete physical scene, not a formal diagram. Invent a fresh composition; do not copy the identity reference or previous examples.
+
+Input images:
+Input Image 1 is the ONLY identity reference for the recurring glasses character. Preserve the character identity but invent a fresh pose, action, props, and composition. Do not use any other image as an input or style reference.
+
+Scene/backdrop:
+Clean white or near-white canvas. On the right half, two short upright structural rails meet at a precise interlocking joint. A compact hand clamp holds the joint while a single Klein-blue connector piece seats between the rails; the finished connection is visibly straight and stable. Keep the environment sparse: rails, clamp, blue connector, and a few quiet ground marks only. Do not include tables, papers, cards, sorting racks, gates, paths, dashboards, arrows, or workflow diagrams.
+
+Subject and action:
+One recurring glasses character, full body, placed in the right 55-60% of the 16:9 frame. The character is actively tightening the compact clamp around the joint with both hands, leaning forward with a clear grounded stance. The blue connector is visibly aligned between the rails and the final joint holds without wobble. Both feet must contact the floor naturally. The character performs the conceptual action and is not a decorative mascot.
+
+Character invariants:
+Side-parted black hair with one simple front-sweeping hair mass; two large round glasses with a clear bridge; two separate white oval eyes; exactly one solid black oval pupil inside each eye, both pupils looking toward the clamp and connector. Small rounded face with a restrained cool-gray jaw plane and simple satisfied neutral mouth. Klein-blue collared top with hard-edged continuous cool-gray fold planes, not a flat pure-color block. Very wide black trousers with 15-30% cool-gray folded facets. Flat small pointed shoes extending naturally sideways beneath the trouser hems; no thick soles, triangular supports, anatomical toes, or fused legs.
+
+Style/medium:
+Hand-painted editorial comic illustration. Expressive black ink contours with visible line-weight variation, slightly imperfect turns, occasional restrained redraw marks, matte flat brush fills, and sparse dry-brush edges. Sophisticated and work-focused, with a tactile painted feel rather than a vector icon, corporate stock illustration, or childish mascot.
+
+Composition/framing:
+2048x1152, 16:9. Place the character, clamp, rails, connector, and in-image lettering in the right 55-60% of the canvas. Preserve approximately 40% calm white negative space on the left for HTML title and body copy. Keep hands, face, joint, and every in-image label outside the left HTML safe zone. Use a readable diagonal from the character's hands to the stable joint; do not center the character.
+
+Spatial layering:
+Keep both rails and the joint visibly grounded on one floor plane. The clamp must wrap around the joint with clear contact and no floating parts. The character's arms and hands must remain in front of the clamp; legs and flat shoes stay on the floor and do not merge with the rails.
+
+Color palette:
+Klein blue #002FA7 is the only saturated hue, used on the collared top and the single connector piece. Everything else is black, white, cool light gray, or cool mid gray. Minor antialias shades are acceptable; no second hue, warm tint, green, red, yellow, purple, or blue-purple gradient.
+
+Lighting and modeling:
+Use only hard-edged flat gray structural planes on sleeve undersides, side seams, clothing folds, jaw, hands, clamp faces, rail facets, and trouser facets. Gray planes should read as continuous volume shading integrated with forms, not isolated patches. No gradients, soft shadows, realistic light simulation, rim lights, airbrush, bloom, or 3D rendering.
+
+Text (verbatim):
+Draw only these two short handwritten annotations as part of the illustration. Render the exact Chinese characters below; do not translate, paraphrase, repeat, or add any other text:
+1. `校准` -> place immediately beside the clamp and the Klein-blue connector, following the clamp's contour.
+2. `完成` -> place immediately beside the final stable joint where the rails meet, following the connection line.
+Use expressive black ink lettering with restrained Klein-blue accents and varied hand-drawn strokes; Chinese has humanistic brush-like contrast and must remain legible at slide size. No label boxes, title, explanatory paragraph, arrows, watermark, logo, or unrelated words. HTML slide title and body will be rendered separately as real text.
+
+Constraints:
+One image communicates one core idea. Preserve generous negative space. Keep the action and labels physically integrated with the clamp, connector, and stable joint. No duplicate pupils, double irises, extra eyes, accidental eye marks, extra characters, extra labels, distorted Chinese characters, vector geometry, formal flowchart, app UI, decorative frame, card container, repeated prior composition, cropped feet, floating character, impossible hand contact, or clamp/rails merged with the body.

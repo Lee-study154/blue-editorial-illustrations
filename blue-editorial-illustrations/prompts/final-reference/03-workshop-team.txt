@@ -1,0 +1,42 @@
+Use case: illustration-story
+Asset type: standalone 16:9 editorial illustration for an HTML presentation
+
+Input images:
+Input Image 1 is the ONLY identity reference for the recurring glasses character. Preserve the character identity from the input for all recurring figures, but invent a fresh workshop scene, poses, props, and composition. Do not copy the input arrangement.
+
+Primary request:
+Create an original editorial comic illustration visualizing a small team bringing a rough production line into alignment. Show three full-body recurring glasses characters working together around one compact industrial workbench: one feeds material into a simple press, one checks alignment at a guide rail, and one receives the finished stack. The three actions should read as one coordinated cycle, not a lineup.
+
+Scene/backdrop:
+Clean white or near-white canvas. Build a sparse right-side workshop environment with one continuous waist-high workbench, a small manual press, a short guide rail, a feed chute, and a neat stack of finished sheets. Keep the left 38-40% of the canvas calm white for HTML title and body copy. No UI, no formal arrows, no dense labels.
+
+Subject and action:
+Three full-body recurring glasses characters are distributed in front-to-back depth on the right side, with different poses and gestures. The rear-left worker pushes a short strip into the feed chute; the center worker bends to tune a visible guide rail under the press; the foreground-right worker lifts a finished stack from the output side. Their heads, hands, torsos, legs, and shoes must remain anatomically separate and readable. The scene should feel like one shared work moment with overlapping but clear actions.
+
+Character invariants:
+Each recurring character has side-parted black hair; two large round glasses; two separate white oval eyes; exactly one solid black oval pupil inside each eye; both pupils look toward their current task. Small rounded faces with restrained cool-gray jaw planes. Klein-blue collared tops with hard-edged cool-gray fold planes. Very wide black trousers with 15-30% cool-gray folded facets. Flat small pointed shoes extending naturally sideways beneath trouser hems. Vary pose and scale modestly, never facial identity.
+
+Style/medium:
+Hand-painted editorial comic illustration. Expressive black ink contours with visible line-weight variation, slightly imperfect turns, occasional restrained redraw marks, matte flat brush fills, and sparse dry-brush edges. Sophisticated and work-focused, not childish, not a generic vector illustration.
+
+Composition/framing:
+2048x1152, 16:9. Place the workbench and all three characters in the right 58-62% of the frame. Preserve at least 38% calm white negative space on the left for HTML copy. Use a diagonal bench perspective and staggered depth so figures do not form a row. Keep lettering near its physical anchor and outside faces/hands.
+
+Spatial layering:
+The workbench is one continuous foreground occlusion plane. All three torsos are behind the tabletop; arms and hands may pass over the front edge to perform the feed, calibration, and receiving actions. All legs and pointed shoes remain on the floor layer below the tabletop. No torso, leg, or shoe may pass through the tabletop or merge with table legs. Keep the press and guide rail behind the tabletop with clear contact points.
+
+Color palette:
+Klein blue #002FA7 is the only saturated hue. Everything else is black, white, cool light gray, or cool mid gray. Use blue for the three collared tops, one press lever, and a narrow output strip only; do not introduce any second hue.
+
+Lighting and modeling:
+Use only hard-edged flat gray structural planes on sleeve undersides, side seams, folds, jaw, hands, and trouser facets. No gradients, soft shadows, realistic lighting, rim lights, airbrush, or 3D rendering.
+
+Text (verbatim):
+Draw exactly these three short handwritten annotations as part of the illustration, each beside the named visible object or action:
+- "送料" -> beside the feed chute and the rear-left worker's hands, close to the incoming strip.
+- "校准" -> beside the center worker's guide rail and manual press adjustment point.
+- "收取" -> beside the finished stack at the foreground output side, close to the receiving worker's hands.
+Render exact Chinese characters with expressive black ink lettering, restrained Klein-blue accent strokes, and humanistic brush-like contrast. No label boxes, no title, no paragraph, no unrelated words.
+
+Constraints:
+One image communicates one coordinated work cycle. Use 5-8 supporting objects at most. No watermark, logo, decorative frame, dense arrows, formal flowchart, app UI, generic corporate vector illustration, or repeated prior long-table composition. No duplicate pupils, double irises, extra eyes, tangled limbs, hidden feet, triangular support-like feet, thick soles, anatomical toes, or text errors.

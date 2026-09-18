@@ -1,0 +1,38 @@
+Use case: illustration-story
+Asset type: standalone 16:9 editorial illustration for an HTML presentation
+
+Primary request:
+Create one original hand-painted editorial comic illustration that visualizes the idea of opening a blocked passage so work can move forward. Show a concrete physical scene, not a formal diagram. Invent a new scene and composition; do not copy the arrangement of the identity reference.
+
+Input images:
+Input Image 1 is the ONLY identity reference for the recurring glasses character. Preserve the character identity but invent a fresh pose, action, props, and composition. Do not use any other image as an input or style reference.
+
+Scene/backdrop:
+Clean white or near-white canvas. A simple tall gate occupies the right-middle of the scene. A small wedge visibly jams the lower edge of the gate, and the gate is being pulled open enough to reveal a short, clearly walkable Klein-blue path behind it. Keep the environment sparse: gate, wedge, short path, and only a few quiet ground marks. Do not include a table, paper, work chain, sorting rack, stitched strap, blue board, long desk, cards, or workflow diagram.
+
+Subject and action:
+One recurring glasses character, full body, placed on the right half of the 16:9 frame. The character is actively pulling the gate open with both hands while stepping naturally on the floor; the hand-to-gate contact and both feet-to-ground contacts must be clear. The opened gate and the path are the visible result of the action. The character performs the conceptual action and is not a decorative mascot.
+
+Character invariants:
+Side-parted black hair with one simple front-sweeping hair mass; two large round glasses with a clear bridge; two separate white oval eyes; exactly one solid black oval pupil inside each eye, both pupils looking toward the gate. Small rounded face with a restrained cool-gray jaw plane and simple neutral mouth. Klein-blue collared top with hard-edged continuous cool-gray fold planes, not a flat pure-color block. Very wide black trousers with 15-30% cool-gray folded facets. Flat small pointed shoes extending naturally sideways beneath the trouser hems; no thick soles, triangular supports, anatomical toes, or fused legs.
+
+Style/medium:
+Hand-painted editorial comic illustration. Expressive black ink contours with visible line-weight variation, slightly imperfect turns, occasional restrained redraw marks, matte flat brush fills, and sparse dry-brush edges. Sophisticated and work-focused, with the tactile painted feel of an editorial illustration rather than a vector icon, corporate stock illustration, or childish mascot.
+
+Composition/framing:
+2048x1152, 16:9. Place the full-body character, gate, wedge, path, and in-image lettering in the right 55-60% of the canvas. Preserve approximately 40% calm white negative space on the left for HTML title and body copy. Keep hands, face, gate contact, path, and every in-image label outside the left HTML safe zone. Use a readable diagonal pull and a visible opening gap; do not center the character.
+
+Color palette:
+Klein blue #002FA7 is the only saturated hue, used on the collared top and the short path. Everything else is black, white, cool light gray, or cool mid gray. Minor antialias shades are acceptable; no second hue, warm tint, green, red, yellow, purple, or blue-purple gradient.
+
+Lighting and modeling:
+Use only hard-edged flat gray structural planes on sleeve undersides, side seams, clothing folds, jaw, hands, and trouser facets. Gray planes should read as continuous volume shading integrated into the garments, not isolated patches. No gradients, soft shadows, realistic light simulation, rim lights, airbrush, bloom, or 3D rendering.
+
+Text (verbatim):
+Draw only these two short handwritten annotations as part of the illustration, each beside the named visible object or result. Render the exact Chinese characters below; do not translate, paraphrase, repeat, or add any other text:
+1. `卡点` -> place immediately beside the small wedge at the lower gate edge, following the wedge contour.
+2. `通路` -> place along the short Klein-blue walkable path visible behind the opened gate, following the path direction.
+Use expressive black ink lettering with restrained Klein-blue accents and varied hand-drawn strokes; Chinese has humanistic brush-like contrast and must remain legible at slide size. No label boxes, title, explanatory paragraph, arrows, watermark, logo, or unrelated words. HTML slide title and body will be rendered separately as real text.
+
+Constraints:
+One image communicates one core idea. Preserve generous negative space. Keep the action and labels physically integrated with the gate, wedge, and path. No duplicate pupils, double irises, extra eyes, accidental eye marks, extra characters, extra labels, distorted Chinese characters, vector geometry, formal flowchart, app UI, decorative frame, card container, repeated prior composition, cropped feet, floating character, impossible hand contact, or gate/path merged with the body.

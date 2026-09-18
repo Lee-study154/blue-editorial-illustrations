@@ -1,0 +1,41 @@
+Use case: illustration-story
+Asset type: standalone 16:9 editorial illustration for an HTML presentation
+
+Primary request:
+Create one original hand-painted editorial comic illustration that visualizes shared load and stable collaboration. Show two consistent recurring glasses characters physically lifting one long Klein-blue beam together and settling it onto two gray supports. Their different stances and the beam's level position should make shared responsibility and stability immediately readable, not a diagram.
+
+Input images:
+Input Image 1 is the ONLY identity reference for the recurring character. Preserve the character identity for both instances but invent fresh poses, action, props, and composition. Do not copy the input image arrangement and do not use any other image as a style or composition reference.
+
+Scene/backdrop:
+Clean white or near-white canvas. On the right half, two low cool-gray trestle supports stand several steps apart with one long Klein-blue beam between them, slightly above the supports as the characters guide it down. Two recurring glasses characters stand on opposite ends of the beam, one bracing the near end and one guiding the far end. Add only a few floor marks and one small wedge, keeping the left 40% calm and empty for HTML title and body copy.
+
+Subject and action:
+Two full-body recurring glasses characters coordinate a single lift-and-set action. The near character bends at the knees with both hands under the beam; the far character reaches forward to align the opposite end over the gray support. The beam remains visibly continuous and level between them, and both pairs of feet stay on the floor. Do not place them behind a table and do not let bodies intersect the beam.
+
+Character invariants:
+For each recurring glasses character: side-parted black hair; two large round glasses; two separate white oval eyes; exactly one solid black oval pupil inside each eye; pupils look toward the shared beam and supports. Small rounded face with restrained cool-gray jaw plane. Klein-blue collared top with hard-edged cool-gray fold planes. Very wide black trousers with 15-30% cool-gray folded facets. Flat small pointed shoes extending naturally sideways beneath the trouser hems. Keep identities consistent but poses clearly different.
+
+Style/medium:
+Hand-painted editorial comic illustration. Expressive black ink contours with visible line-weight variation, slightly imperfect turns, occasional restrained redraw marks, matte flat brush fills, and sparse dry-brush edges. Sophisticated and work-focused, not childish or vector-like.
+
+Composition/framing:
+2048x1152, 16:9. Place the visual action in the right 55-60% of the canvas. Preserve at least 40% calm white negative space on the left for HTML title and body copy. Keep hands, faces, the beam, supports, and all in-image lettering outside the HTML text safe zone.
+
+Spatial layering:
+All objects sit on a shared floor plane. The beam is held in front of the characters at hand height; bodies, legs, and flat shoes remain fully visible and never pass through the beam or supports. The gray supports are separate from the characters with clear contact points.
+
+Color palette:
+Klein blue #002FA7 is the only saturated hue, used on the beam and both collared tops. Everything else is black, white, cool light gray, or cool mid gray. Minor antialias shades are acceptable; no second hue.
+
+Lighting and modeling:
+Use only hard-edged flat gray structural planes on sleeve undersides, side seams, folds, jaw, hands, and trouser facets. No gradients, soft shadows, realistic lighting, rim lights, airbrush, or 3D rendering.
+
+Text (verbatim):
+Draw only these 2 short handwritten annotations as part of the illustration, each beside the named visible object or outcome. Render the exact Chinese characters, with no translation or paraphrase:
+- "共同承重" placed along the center of the blue beam between the two characters, following its long edge without covering their hands.
+- "稳固" placed immediately beside the right-side gray support at its base, following the support contour.
+Use expressive black ink lettering with restrained Klein-blue accent strokes; Chinese has humanistic brush-like contrast and remains legible at slide size. No label boxes, headline, paragraph, watermark, or unrelated words.
+
+Constraints:
+One image communicates one core idea. Preserve clear contact between hands, beam, and supports. Do not copy any prior sample's exact table, beam, or pose arrangement. No dense arrows, formal flowchart, app UI, generic corporate vector illustration, repeated pupils, double irises, extra eyes, triangular support-like feet, thick soles, anatomical toes, gradient, soft shadow, or additional text.

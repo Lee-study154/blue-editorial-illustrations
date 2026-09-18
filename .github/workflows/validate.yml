@@ -1,0 +1,23 @@
+name: Validate Skill
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install contract-test dependency
+        run: sudo apt-get install -y ripgrep
+      - name: Check skill structure and constraints
+        run: bash blue-editorial-illustrations/tests/contract.sh
+      - name: Check portable release assets
+        run: python3 blue-editorial-illustrations/tests/release-contract.py

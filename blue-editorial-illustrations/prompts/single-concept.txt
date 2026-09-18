@@ -1,0 +1,11 @@
+Use case: illustration-story
+Asset type: standalone 16:9 editorial illustration for an HTML presentation
+
+Create one original hand-painted editorial comic illustration for: {core idea}.
+Show the fixed glasses IP performing one concrete physical action: {action}. Use a full-body figure by default so the posture, wide trousers, flat shoes, ground contact, and relation to the prop are readable.
+Scene/backdrop: clean white or near-white canvas; {environment}; sparse useful props only.
+Composition: 2048x1152, 16:9; place the full-body action in {zone}; leave {safe-zone} calm white space for HTML copy. Use a half-body crop only when the request explicitly requires a close hand action.
+Text (verbatim): hand-letter exactly {1-4 short labels from shot list, each quoted with its visible object/action and precise placement}. Default to Chinese; use English only when explicitly requested. Place labels beside or along their visible anchors, outside the HTML safe zone, without covering the face, hands, or core prop. Use expressive black-ink lettering with occasional Klein-blue accents; humanistic brush-like Chinese or informal editorial display-serif English. No slide title or paragraph inside the image.
+Identity reference: Input Image 1 is the only character reference. Keep side-parted black hair, two round glasses, two separate white eyes with exactly one solid black pupil per eye, blue collared top, black wide trousers, and flat small pointed shoes.
+Style: expressive black ink with line-weight variation, restrained dry-brush edges, matte flat fills, and hard-edged cool-gray structural planes. Klein blue #002FA7 is the only saturated hue.
+No gradients, soft shadows, 3D rendering, UI, arrows, label boxes, unrelated words, watermarks, logos, duplicate pupils, extra eyes, triangular support-like feet, cropped legs, or missing ground contact.

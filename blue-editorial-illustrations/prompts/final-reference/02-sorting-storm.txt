@@ -1,0 +1,41 @@
+Use case: illustration-story
+Asset type: standalone 16:9 editorial illustration for an HTML presentation
+
+Input images:
+Input Image 1 is the ONLY identity reference for the recurring glasses character. Preserve the character identity from the input, but invent a completely new scene, pose, props, and composition. Do not copy the input arrangement.
+
+Primary request:
+Create an original editorial comic illustration visualizing noisy information being sorted into a usable order. Show one full-body recurring glasses character in an active sorting gesture: they are sweeping a loose storm of paper sheets toward a compact vertical sorting rack, with a clearly visible tidy stack already seated in the rack. The action must read immediately as moving scattered material into its place.
+
+Scene/backdrop:
+Clean white or near-white canvas. On the right half, a sparse studio floor contains 3-7 paper sheets, one low sorting rack with three open compartments, and a narrow blue floor stripe that leads into the rack. No desk, no app UI, no diagram boxes. Keep the left 40% of the canvas calm white for HTML title and body copy.
+
+Subject and action:
+One full-body recurring glasses character occupies the right-center. The character leans forward with one arm extended, actively guiding several loose papers into the lower rack compartment; the other hand holds one sheet at the moment before placement. Make the sweeping direction, scattered-to-ordered transition, and contact between hands, paper, and rack unmistakable. Keep both legs planted on the floor with natural weight and small pointed shoes fully visible.
+
+Character invariants:
+Side-parted black hair; two large round glasses; two separate white oval eyes; exactly one solid black oval pupil inside each eye; both pupils look toward the rack. Small rounded face with restrained cool-gray jaw plane. Klein-blue collared top with hard-edged cool-gray fold planes. Very wide black trousers with 15-30% cool-gray folded facets. Flat small pointed shoes extending naturally sideways beneath the trouser hems.
+
+Style/medium:
+Hand-painted editorial comic illustration. Expressive black ink contours with visible line-weight variation, slightly imperfect turns, occasional restrained redraw marks, matte flat brush fills, and sparse dry-brush edges. Sophisticated and work-focused, not childish, not a generic vector illustration.
+
+Composition/framing:
+2048x1152, 16:9. Place the complete visual action in the right 55-60% of the frame. Preserve at least 40% calm white negative space on the left for HTML copy. Keep the face, hands, rack, papers, and all in-image lettering outside the HTML safe zone. Use a fresh diagonal floor perspective; do not reproduce any prior gate, long table, or paper-sorting reference layout.
+
+Spatial layering:
+The papers lie on the floor plane and overlap naturally. The rack stands behind them with clear front edges and no impossible intersections. The character's hands remain in front of the rack opening, legs and shoes remain on the floor, and no body part merges with the rack.
+
+Color palette:
+Klein blue #002FA7 is the only saturated hue. Everything else is black, white, cool light gray, or cool mid gray. Use blue only for the collared top, the narrow floor stripe, and one small rack accent.
+
+Lighting and modeling:
+Use only hard-edged flat gray structural planes on sleeve undersides, side seams, folds, jaw, hands, and trouser facets. No gradients, soft shadows, realistic lighting, rim lights, airbrush, or 3D rendering.
+
+Text (verbatim):
+Draw exactly these two short handwritten annotations as part of the illustration, each beside the named visible object and never in the left HTML safe zone:
+- "杂讯" -> immediately beside the loose scattered paper sheets on the floor, slightly left of the character's sweeping hand.
+- "归位" -> immediately beside the tidy paper stack inside or at the mouth of the sorting rack.
+Render exact Chinese characters with expressive black ink lettering, restrained Klein-blue accent strokes, and humanistic brush-like contrast. No label boxes, no title, no paragraph, no unrelated words.
+
+Constraints:
+One image communicates one core idea. Preserve generous negative space and at most 7 supporting objects. No watermark, logo, decorative frame, dense arrows, formal flowchart, app UI, generic corporate vector illustration, or repeated composition from prior examples. No duplicate pupils, double irises, extra eyes, triangular support-like feet, thick soles, anatomical toes, or text errors.

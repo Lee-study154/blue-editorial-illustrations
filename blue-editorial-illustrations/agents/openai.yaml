@@ -1,0 +1,7 @@
+interface:
+  display_name: "克莱因蓝 IP 演示插画"
+  short_description: "把文稿与抽象概念转成克莱因蓝 IP 演示插画"
+  brand_color: "#002FA7"
+  default_prompt: "Use $blue-editorial-illustrations to 为这份文稿规划并生成适合 HTML 演示的 IP 插画。"
+policy:
+  allow_implicit_invocation: true

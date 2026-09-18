@@ -1,0 +1,41 @@
+Use case: illustration-story
+Asset type: standalone 16:9 editorial illustration for an HTML presentation
+
+Primary request:
+Create one original hand-painted editorial comic illustration that visualizes reasoning as taking the next justified step. Show a concrete physical scene, not a formal diagram. Invent a fresh composition; do not copy the identity reference or previous examples.
+
+Input images:
+Input Image 1 is the ONLY identity reference for the recurring glasses character. Preserve the character identity but invent a fresh pose, action, props, and composition. Do not use any other image as an input or style reference.
+
+Scene/backdrop:
+Clean white or near-white canvas. On the right half, a short rising set of three broad stone-and-wood steps leads to a small blue target marker at the top. A large handheld magnifying glass rests over the top step, revealing one clear blue mark. Keep the environment sparse: steps, magnifying glass, target marker, and a few grounded ink marks only. Do not include tables, papers, cards, sorting racks, gates, paths, dashboards, arrows, or workflow diagrams.
+
+Subject and action:
+One recurring glasses character, full body, placed in the right 55-60% of the 16:9 frame. The character is actively climbing from the floor onto the first step while extending one hand to steady the magnifying glass and the other toward the next step. The first step and the magnified target make the reasoning sequence visible. Both feet must land naturally on the floor/step surfaces with clear contact. The character performs the conceptual action and is not a decorative mascot.
+
+Character invariants:
+Side-parted black hair with one simple front-sweeping hair mass; two large round glasses with a clear bridge; two separate white oval eyes; exactly one solid black oval pupil inside each eye, both pupils looking toward the magnifying glass and target. Small rounded face with a restrained cool-gray jaw plane and simple focused mouth. Klein-blue collared top with hard-edged continuous cool-gray fold planes, not a flat pure-color block. Very wide black trousers with 15-30% cool-gray folded facets. Flat small pointed shoes extending naturally sideways beneath the trouser hems; no thick soles, triangular supports, anatomical toes, or fused legs.
+
+Style/medium:
+Hand-painted editorial comic illustration. Expressive black ink contours with visible line-weight variation, slightly imperfect turns, occasional restrained redraw marks, matte flat brush fills, and sparse dry-brush edges. Sophisticated and work-focused, with a tactile painted feel rather than a vector icon, corporate stock illustration, or childish mascot.
+
+Composition/framing:
+2048x1152, 16:9. Place the character, steps, magnifying glass, target, and in-image lettering in the right 55-60% of the canvas. Preserve approximately 40% calm white negative space on the left for HTML title and body copy. Keep hands, face, steps, magnifying glass, target, and every in-image label outside the left HTML safe zone. Use a readable diagonal ascent; do not center the character.
+
+Spatial layering:
+Keep the steps as a continuous grounded structure with visible risers and treads. The character's lower legs and shoes remain on the floor/step planes; no body part floats, merges into a riser, or passes through a step. The magnifying glass must visibly touch or hover just above the top step.
+
+Color palette:
+Klein blue #002FA7 is the only saturated hue, used on the collared top, the small target marker, and one magnified mark. Everything else is black, white, cool light gray, or cool mid gray. Minor antialias shades are acceptable; no second hue, warm tint, green, red, yellow, purple, or blue-purple gradient.
+
+Lighting and modeling:
+Use only hard-edged flat gray structural planes on sleeve undersides, side seams, clothing folds, jaw, hands, step faces, and trouser facets. Gray planes should read as continuous volume shading integrated with forms, not isolated patches. No gradients, soft shadows, realistic light simulation, rim lights, airbrush, bloom, or 3D rendering.
+
+Text (verbatim):
+Draw only these two short handwritten annotations as part of the illustration. Render the exact Chinese characters below; do not translate, paraphrase, repeat, or add any other text:
+1. `一步` -> place immediately beside the first step at the character's advancing foot, following the step edge.
+2. `判断` -> place immediately beside the magnifying glass and the small top target, following their contour.
+Use expressive black ink lettering with restrained Klein-blue accents and varied hand-drawn strokes; Chinese has humanistic brush-like contrast and must remain legible at slide size. No label boxes, title, explanatory paragraph, arrows, watermark, logo, or unrelated words. HTML slide title and body will be rendered separately as real text.
+
+Constraints:
+One image communicates one core idea. Preserve generous negative space. Keep the action and labels physically integrated with the steps, magnifying glass, and target. No duplicate pupils, double irises, extra eyes, accidental eye marks, extra characters, extra labels, distorted Chinese characters, vector geometry, formal flowchart, app UI, decorative frame, card container, repeated prior composition, cropped feet, floating character, impossible hand contact, or steps/magnifying glass merged with the body.

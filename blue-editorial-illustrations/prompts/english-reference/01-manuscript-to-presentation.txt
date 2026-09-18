@@ -1,0 +1,26 @@
+Use case: precise-object-edit
+Asset type: English-title reference illustration for an HTML presentation skill
+
+Input image:
+Input Image 1 is the edit target. Preserve the entire original illustration as closely as possible: same glasses character, face, eyes, pose, hands, desk, loose pages, presentation sheets, pencil cup, books, wastebasket, white background, Klein-blue clothing and objects, black contours, cool-gray shading, line weight, proportions, and wide 16:9 composition. Do not redraw, crop, reframe, or add objects.
+
+Primary request:
+Make a minimal text-only localization pass on the supplied illustration. Add exactly four short English handwritten annotations near existing objects. The annotations must look like they were painted into the same hand-painted editorial comic illustration, not like a digital overlay. Change only the small lettering marks and the tiny local ink/accent strokes needed to integrate them. Keep every existing character and object unchanged.
+
+Text (verbatim and exact):
+- "LOOSE PAGES" placed immediately beside the existing scattered loose pages on the desk, following the paper cluster's direction. Keep it compact and secondary.
+- "DRAFT" placed immediately beside or just above the existing three upright presentation sheets on the wall, following the sheet row. Keep it compact and secondary.
+- "SORT" placed immediately beside the small gray-and-blue paper being handled near the character's lower hand, following that paper's angle. Keep it very small.
+- "DELIVER" placed immediately beside the finished presentation sheets at the right side, following their lower edge. Keep it very small.
+
+Typography:
+Use expressive hand-painted English lettering inspired by the illustration's black ink contour: slightly irregular, confident brush/felt-tip strokes, restrained width variation, imperfect handmade spacing, legible at slide size. Use black ink with at most a tiny Klein-blue accent stroke. Do not use a computer font, label box, banner, headline, paragraph, or all-caps display title treatment.
+
+Composition and invariants:
+Do not alter the original composition, negative space, character position, object count, camera angle, or visual hierarchy. Do not place any text in the calm far-left white area. Keep all four annotations close to the named existing objects and outside the character's face and hands. No new title, subtitle, diagram, arrows, UI, watermark, logo, extra props, or decorative frame.
+
+Style and palette:
+Retain the original hand-painted editorial comic style, expressive black contours, matte fills, cool-gray structural shadows, and Klein blue #002FA7 as the only saturated color. No gradients, photorealism, 3D rendering, soft airbrush, or color changes.
+
+Avoid:
+Any spelling error, substituted wording, missing letters, duplicated text, gibberish, non-English text, text in the left safe area, altered pupils/eyes, altered face, changed anatomy, changed furniture, changed paper layout, extra characters, or any other image modification.

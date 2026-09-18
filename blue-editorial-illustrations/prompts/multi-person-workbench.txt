@@ -1,0 +1,11 @@
+Use case: illustration-story
+Asset type: standalone 16:9 editorial illustration for an HTML presentation
+
+Create one original wide editorial comic illustration showing {number} full-body instances of the fixed glasses IP performing different connected roles: {roles}. Keep each person's full posture, wide trousers, flat shoes, and ground contact readable.
+Scene/backdrop: a sparse white or near-white workshop with one shared workbench and only narratively necessary tools.
+Spatial layering: every character stands behind one continuous tabletop; the tabletop is the foreground occlusion plane hiding waists naturally. Arms and hands may rest over the tabletop. Legs and flat shoes stay on the floor layer below it. No torso, leg, or shoe may pass through the tabletop or merge with table legs.
+Composition: 2048x1152, 16:9; use clear front/middle/back depth; preserve {safe-zone} for HTML copy; keep faces, hands, and work objects unobstructed.
+Text (verbatim): hand-letter exactly {1-4 short labels from shot list, each quoted with a distinct visible station/action and precise placement}. Default to Chinese; use English only when explicitly requested. Let labels follow the workbench's visual rhythm without becoming a workflow grid; black ink with restrained Klein-blue accents, humanistic brush-like Chinese or informal editorial display-serif English. Keep all labels outside the HTML safe zone and away from hands and contact points.
+Identity: each IP has side-parted black hair, two large round glasses, two separate white eyes with exactly one solid black pupil per eye, a blue collared top with cool-gray fold planes, black wide trousers with 15-30% gray facets, and flat small pointed shoes.
+Style: hand-painted black ink, varied line pressure, restrained dry-brush texture, matte fills, cool-gray structural shadows, and Klein blue #002FA7 as the only saturated hue.
+No slide title, paragraphs, unrelated words, label boxes, gradients, soft shadows, 3D, UI, arrows, card layouts, duplicate pupils, extra eyes, or geometric gray patches.
