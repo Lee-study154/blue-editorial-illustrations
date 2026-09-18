@@ -200,6 +200,4 @@ python3 blue-editorial-illustrations/tests/release-contract.py
 
 ## 来源与权利
 
-框架与概念转译方法改编自 [Ian Xiaohei Illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)，只替换为自有 IP、克莱因蓝画风和外部 CLI 后端。本仓库不包含上游角色、示例图片或彩绘参考原图。
-
 上游改编部分保留 [MIT 归属与原文](./blue-editorial-illustrations/THIRD_PARTY_NOTICES.md)。自有 IP 与图像不自动适用 MIT；公开展示不等于素材开放授权，使用与再发布须取得相应授权。详见 [权利说明](./NOTICE.md)。
