@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">从观点到画面的三个阶段</title>
+  <desc id="desc">核心判断，转成物理隐喻，再由 IP 亲自完成行动并呈现结果。三个阶段从左向右阅读，详细说明保留在 README 正文。</desc>
+  <rect width="1200" height="320" fill="#FFFFFF"/>
+  <g id="stage-numbers" font-family="Georgia, serif" font-size="28" letter-spacing="0" fill="#575D67" text-anchor="middle">
+    <text x="213" y="58">01</text>
+    <text x="600" y="58">02</text>
+    <text x="987" y="58">03</text>
+  </g>
+  <g id="stage-labels" font-family="'Songti SC', 'Noto Serif CJK SC', 'PingFang SC', serif" font-size="70" font-weight="600" letter-spacing="0" fill="#111111" text-anchor="middle">
+    <g id="core-judgment">
+      <text x="213" y="148">核心</text>
+      <text x="213" y="232">判断</text>
+    </g>
+    <g id="physical-metaphor">
+      <text x="600" y="148">物理</text>
+      <text x="600" y="232">隐喻</text>
+    </g>
+    <g id="ip-action-and-result">
+      <text x="987" y="148">IP 行动</text>
+      <text x="987" y="232">与结果</text>
+    </g>
+  </g>
+  <g id="transformation-arrows" fill="none" stroke="#111111" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M348 177L414 178 M397 161L414 178L396 195"/>
+    <path d="M735 177L801 178 M784 161L801 178L783 195"/>
+  </g>
+  <path id="result-ink" d="M885 263L1091 259L1086 266L895 273L882 269Z" fill="#002FA7"/>
+</svg>

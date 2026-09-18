@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="116" viewBox="0 0 1200 116" role="img" aria-labelledby="title desc">
+  <title id="title">参考作品</title>
+  <desc id="desc">第一节：查看本项目的真实中文与英文参考插画。</desc>
+  <rect width="1200" height="116" fill="#FFFFFF"/>
+  <g id="section-title" font-family="'Songti SC', 'Noto Serif CJK SC', 'PingFang SC', serif" font-size="52" font-weight="600" letter-spacing="0" fill="#111111">
+    <text x="56" y="78">参考作品</text>
+  </g>
+  <path id="section-rule" d="M300 62H1068" fill="none" stroke="#D7DBE1" stroke-width="2"/>
+  <path id="blue-ink" d="M54 97L251 94L247 100L62 104L53 101Z" fill="#002FA7"/>
+  <text id="section-number" x="1144" y="77" text-anchor="end" font-family="Georgia, serif" font-size="34" letter-spacing="0" fill="#002FA7">01</text>
+</svg>

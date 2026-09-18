@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="116" viewBox="0 0 1200 116" role="img" aria-labelledby="title desc">
+  <title id="title">从观点到画面</title>
+  <desc id="desc">第二节：把核心判断转成物理隐喻，再由固定 IP 完成动作与结果。</desc>
+  <rect width="1200" height="116" fill="#FFFFFF"/>
+  <g id="section-title" font-family="'Songti SC', 'Noto Serif CJK SC', 'PingFang SC', serif" font-size="52" font-weight="600" letter-spacing="0" fill="#111111">
+    <text x="56" y="78">从观点到画面</text>
+  </g>
+  <path id="section-rule" d="M406 62H1068" fill="none" stroke="#D7DBE1" stroke-width="2"/>
+  <path id="blue-ink" d="M55 97L352 94L347 100L66 104L53 101Z" fill="#002FA7"/>
+  <text id="section-number" x="1144" y="77" text-anchor="end" font-family="Georgia, serif" font-size="34" letter-spacing="0" fill="#002FA7">02</text>
+</svg>
