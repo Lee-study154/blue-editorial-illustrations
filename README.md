@@ -198,6 +198,12 @@ python3 blue-editorial-illustrations/tests/release-contract.py
 
 检查覆盖结构、可移植性、凭证模式、图像格式与提示词映射，不代替真实生图、视觉或 HTML 验收。
 
+<p align="center">
+  <a href="https://github.com/oil-oil/beautify-github-readme">
+    <img src="./assets/readme/made-with-beautify.svg" width="300" alt="README made with beautify-github-readme">
+  </a>
+</p>
+
 ## 来源与权利
 
 上游改编部分保留 [MIT 归属与原文](./blue-editorial-illustrations/THIRD_PARTY_NOTICES.md)。自有 IP 与图像不自动适用 MIT；公开展示不等于素材开放授权，使用与再发布须取得相应授权。详见 [权利说明](./NOTICE.md)。

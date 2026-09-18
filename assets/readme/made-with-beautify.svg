@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="64" viewBox="0 0 420 64" role="img" aria-labelledby="title desc">
+  <title id="title">README made with beautify-github-readme</title>
+  <desc id="desc">深墨色项目签名，包含 beautify-github-readme 标识、克莱因蓝编辑短划、散片整理成页面的微型图形和外链箭头。</desc>
+  <defs>
+    <pattern id="signature-grid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M22 0H0V22" fill="none" stroke="#F5F3EA" stroke-width=".75" stroke-opacity=".05"/>
+    </pattern>
+    <clipPath id="signature-frame"><rect width="420" height="64" rx="9"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#signature-frame)">
+    <rect width="420" height="64" rx="9" fill="#0A0D12"/>
+    <rect width="420" height="64" rx="9" fill="url(#signature-grid)"/>
+    <g id="signature-copy" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+      <rect x="18" y="14" width="24" height="4" rx="2" fill="#002FA7"/>
+      <text x="50" y="18" fill="#8F97A5" font-size="8" font-weight="700" letter-spacing="1.4">README MADE WITH</text>
+      <text x="18" y="47" fill="#F5F3EA" font-size="19" font-weight="720" letter-spacing="0">beautify-github-readme</text>
+    </g>
+
+    <g id="fragments-to-page" transform="translate(309 14)">
+      <path d="M0 6L10 2L17 10L7 15Z M3 24L14 19L21 29L9 34Z M19 2L29 6L25 16L16 12Z" fill="#AAB0BA"/>
+      <path d="M31 18H43M38 13L43 18L38 23" fill="none" stroke="#002FA7" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="49" y="1" width="28" height="35" fill="#F5F3EA"/>
+      <path d="M55 10H70M55 17H70M55 24H66" fill="none" stroke="#3E454F" stroke-width="2.5" stroke-linecap="round"/>
+      <path d="M50 38L74 37L72 40L53 41Z" fill="#002FA7"/>
+    </g>
+
+    <g id="outbound-arrow" fill="none" stroke="#AAB0BA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M391 37L404 24M396 24H404V32"/>
+    </g>
+  </g>
+</svg>
