@@ -2,19 +2,65 @@
   <img src="./assets/readme/hero.svg" width="100%" alt="Blue Editorial Illustrations：把观点，画成动作。面向文稿与抽象概念的克莱因蓝 IP 插画 skill。">
 </p>
 
+<p align="center">
+  <a href="https://github.com/Lee-study154/blue-editorial-illustrations/releases/tag/showcase-attention-economy-v1">
+    <img src="./assets/showcase/attention-economy/motion-preview.gif" width="100%" alt="《注意力经济》三个插画段落的无声动态节选：蓝色眼镜 IP、观点标签与剧本隐喻进入实际成片。点击观看 43.2 秒完整视频。">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Lee-study154/blue-editorial-illustrations/releases/download/showcase-attention-economy-v1/attention-economy-preview.mp4"><b>观看完整成片 · 1080p60</b></a>
+  &nbsp;·&nbsp; <a href="https://github.com/Lee-study154/blue-editorial-illustrations/releases/download/showcase-attention-economy-v1/attention-economy-4k60.mp4">下载 4K60 母版</a>
+  &nbsp;·&nbsp; <a href="./blue-editorial-illustrations/SKILL.md">Skill 入口</a>
+</p>
+
+<p align="center"><sub>THE ATTENTION ECONOMY · 43.2 秒 · 9:16 · 英文配音<br>上方为三个独立段落的无声节选；完整视频包含片头、配音、音乐与音效。</sub></p>
+
 # 克莱因蓝 IP 插画
 
 把文稿里的判断、关系和状态变化，画成由固定眼镜 IP 亲自完成的动作。不是给旧图换标题，而是为每个观点找到一个能看懂的物理隐喻。
 
 **白底 · 黑色墨线 · 冷灰层次 · 唯一克莱因蓝**。默认中文图内短标注，明确要求时切换英文；输出为 `2048×1152`、`16:9` PNG。
 
-[参考作品](#reference) · [转译逻辑](#method) · [开始使用](#start) · [运行前提](#运行前提) · [下载 v1.0.0](https://github.com/Lee-study154/blue-editorial-illustrations/releases/tag/v1.0.0)
+[成片预览](#film) · [参考作品](#reference) · [转译逻辑](#method) · [开始使用](#start) · [运行前提](#运行前提) · [下载 v1.0.0](https://github.com/Lee-study154/blue-editorial-illustrations/releases/tag/v1.0.0)
+
+<a name="film"></a>
+
+## 从插画到成片
+
+**《注意力经济 / The Attention Economy》**：围绕社交平台、身份标签与注意力，展示同一套蓝色 IP 插画如何进入完整的叙事视频。
+
+<p>
+  <a href="https://github.com/Lee-study154/blue-editorial-illustrations/releases/tag/showcase-attention-economy-v1">
+    <img src="./assets/showcase/attention-economy/film-frames.jpg" width="100%" alt="完整视频四个真实静帧：社交页面片头、真实页面演示、蓝色 IP 插画与剧本隐喻结尾。">
+  </a>
+</p>
+
+插画由本 skill 生成；人物局部动作、真实页面运镜、转场、配音与混音由独立的视频制作流程完成。这是**插画的成片应用案例**，不表示安装本 skill 就具备自动剪辑和配音能力。[视频说明与制作分工](./assets/showcase/attention-economy/README.md)。
+
+<details>
+<summary>查看视频封面</summary>
+
+<p align="center">
+  <a href="https://github.com/Lee-study154/blue-editorial-illustrations/releases/download/showcase-attention-economy-v1/attention-economy-cover-2160x3840.png">
+    <img src="./assets/showcase/attention-economy/cover.jpg" width="280" alt="《注意力经济》封面：WHOSE SCRIPT?，蓝色眼镜 IP 与剧本、手机构成的物理隐喻。">
+  </a>
+</p>
+
+</details>
 
 <a name="reference"></a>
 
 ## ![参考作品](./assets/readme/section-reference.svg)
 
 当前收录 **8 张中文 + 2 张英文 reference**。以下是四张代表作品，均为本项目自有生成图。
+
+<p>
+  <img src="./assets/showcase/attention-economy/illustration-references.jpg" width="100%" alt="四张插画代表作品：文稿整理、双人共同承重、多人工作台与英文分拣隐喻。">
+</p>
+
+<details>
+<summary>展开这四张作品及创作说明</summary>
 
 ### 单人：从散页到成稿
 
@@ -55,6 +101,8 @@ IP 把零散材料组织成展示稿；`散页` 与 `成稿` 分别贴近输入�
     <img src="./blue-editorial-illustrations/assets/examples/english-title/01-positioning.png" width="100%" alt="英文 reference：IP 将零散输入整理为有序输出，物件旁标注 NOISE、INPUT、SORT、IN ORDER。">
   </a>
 </p>
+
+</details>
 
 <details>
 <summary>展开其余 6 张 reference</summary>
